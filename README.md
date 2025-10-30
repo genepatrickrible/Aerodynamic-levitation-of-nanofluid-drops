@@ -1,3 +1,5 @@
+Dataset available: 10.5281/zenodo.17488371
+
 Overview:
 Supplementary Code for our paper entitled "Aerodynamic levitation of nanofluid drops". This code can be used for future works in drop analysis.
 It is designed to create a binarized video, heatmap video, characteristic shape, and frequency spectra of a levitating or falling drop.
